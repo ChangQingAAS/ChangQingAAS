@@ -1,16 +1,15 @@
 <h2 align="center"> Hi, I'm ChangQingAAS 👋 </h2>
-<p><img src="https://github-profile-trophy.vercel.app/?username=ChangQingAAS&theme=onedark" width="100%"></p>
 <table>
     <tr>
         <td valign="center" width="50%" >
-            <ul style="font-size:24px">
+            <ul style="font-size:32px">
                 <li>I'm an undergraduate in Tianjin University</li>
                 <li>I'm currently learning DRL now.</li>
             </ul>
         </td>
        <td valign="top" width="50%">
            <p>
-              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChangQingAAS&langs_count=10&layout=compact&exclude_repo=ChangQingAAS.github.io,TJU-Watermelon&hide=VHDL,Verilog&theme=tokyonight&cache_seconds=1800" height="300">
+              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChangQingAAS&langs_count=10&layout=compact&exclude_repo=ChangQingAAS.github.io,TJU-Watermelon&hide=VHDL,Verilog&theme=cobalt&cache_seconds=1800" height="300">
            </p>
         </td>
     </tr>
@@ -20,7 +19,7 @@
         </td>
         <td width="50%">
         <p>
-            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChangQingAAS&theme=tokyonight&layout=compact" height = "300" width="100%">
+            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChangQingAAS&theme=prussian&layout=compact" height = "300" width="100%">
         </p>
         </td>
     </tr>
