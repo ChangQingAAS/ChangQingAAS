@@ -8,7 +8,7 @@
 </ul>
 
 <p>
-      <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChangQingAAS&langs_count=10&exclude_repo=ChangQingAAS.github.io&layout=compact&theme=nightowl&cache_seconds=1800" height='160' >
+      <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChangQingAAS&langs_count=10&exclude_repo=ChangQingAAS.github.io,MADRL_code&layout=compact&theme=nightowl&cache_seconds=1800" height='160' >
       <img  src="https://github-readme-stats.vercel.app/api?username=ChangQingAAS&theme=tokyonight&hide_border=true&show_icons=true&disable_animations=true&count_private=true&cache_seconds=1800" height='160'>
 </p>
 
