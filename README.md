@@ -26,7 +26,7 @@
         </td>
         <td width="50%">
         <p>
-            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChangQingAAS&theme=nightowl&layout=compact" height = "200" width="100%">
+            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChangQingAAS&theme=nightowl&layout=compact" height = "200">
         </p>
         </td>
     </tr>
