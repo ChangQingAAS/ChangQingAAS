@@ -23,13 +23,13 @@
     <tr>
         <td width="50%">
             <p>
-                <img src="https://github-readme-stats.vercel.app/api?username=ChangQingAAS&theme=tokyonight&hide_border=true&show_icons=true&disable_animations=true&count_private=true&cache_seconds=1800"
+                <img src="https://github-readme-stats.vercel.app/api?username=ChangQingAAS&theme=nightowl&hide_border=true&show_icons=true&disable_animations=true&count_private=true&cache_seconds=1800"
                     height='160'>
             </p>
         </td>
         <td width="50%">
             <p>
-                <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChangQingAAS&theme=tokyonight&layout=compact"
+                <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChangQingAAS&theme=nightowl"
                     height="300" width="100%">
             </p>
         </td>
