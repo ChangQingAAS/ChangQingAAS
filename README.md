@@ -13,19 +13,19 @@
         </td>
        <td valign="top" width="50%">
            <p>         
-             <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChangQingAAS&langs_count=10&exclude_repo=ChangQingAAS.github.iq,Dive-into-DL-PyTorch&layout=compact&theme=nightowl&cache_seconds=1800" height='160' >
+             <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChangQingAAS&langs_count=10&exclude_repo=ChangQingAAS.github.iq,Dive-into-DL-PyTorch&layout=compact&theme=nightowl&cache_seconds=1800" height='200' >
            </p>
         </td>
     </tr>
     <tr>
         <td width="50%">
         <p>
-              <img  src="https://github-readme-stats.vercel.app/api?username=ChangQingAAS&theme=tokyonight&hide_border=true&show_icons=true&disable_animations=true&count_private=true&cache_seconds=1800" height='160'>
+              <img  src="https://github-readme-stats.vercel.app/api?username=ChangQingAAS&theme=tokyonight&hide_border=true&show_icons=true&disable_animations=true&count_private=true&cache_seconds=1800" height='200'>
         </p>
         </td>
         <td width="50%">
         <p>
-            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChangQingAAS&theme=tokyonight&layout=compact" height = "300" width="100%">
+            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChangQingAAS&theme=tokyonight&layout=compact" height = "200" width="100%">
         </p>
         </td>
     </tr>
