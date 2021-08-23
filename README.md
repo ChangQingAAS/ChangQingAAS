@@ -6,7 +6,8 @@
         <td valign="center" width="50%" >
             <ul style="font-size:32px">
                   <li>I'm an undergraduate in Tianjin University</li>
-                  <li>I'm currently learning DRL now.</li>
+                  <li>I'm currently learning RL.</li>
+                  <li>I'm currently learning DL.</li>
                   <li><img src="https://visitor-badge.glitch.me/badge?page_id=ChangQingAAS.readme">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/target-MARL-blue"><li>
                   <img src="https://img.shields.io/badge/JS-primer-9cf">
             </ul>
