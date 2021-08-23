@@ -29,7 +29,7 @@
         </td>
         <td width="50%">
             <p>
-                <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChangQingAAS&theme=nightowl"
+                <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChangQingAAS&theme=nightowl&layout=compact"
                     height="300" width="100%">
             </p>
         </td>
