@@ -15,7 +15,7 @@
         </td>
         <td valign="top" width="50%">
             <p>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChangQingAAS&langs_count=10&exclude_repo=ChangQingAAS.github.iq,Dive-into-DL-PyTorch&layout=compact&theme=nightowl&cache_seconds=1800" height='160' width='200'>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChangQingAAS&langs_count=10&exclude_repo=ChangQingAAS.github.iq,Dive-into-DL-PyTorch&layout=compact&theme=nightowl&cache_seconds=1800" height='160' width='400'>
             </p>
         </td>
     </tr>
@@ -23,13 +23,13 @@
         <td width="50%">
             <p>
                 <img src="https://github-readme-stats.vercel.app/api?username=ChangQingAAS&theme=nightowl&hide_border=true&show_icons=true&disable_animations=true&count_private=true&cache_seconds=1800"
-                    height='160' width='200'>
+                    height='160' width='400'>
             </p>
         </td>
         <td width="50%">
             <p>
                 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChangQingAAS&theme=nightowl&layout=compact"
-                    height="300" width='200' >
+                    height="300" width='400' >
             </p>
         </td>
     </tr>
