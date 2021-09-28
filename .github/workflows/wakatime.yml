@@ -7,16 +7,16 @@ on:
     types: [created, ]
   push: 
     branches:
-      - master
+      - main
 
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: ChangQingAAS/ChangQingAAS@main
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{a1d17779-2a79-4256-be21-b17c5f155b6c}}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LINES_OF_CODE: False
           SHOW_PROFILE_VIEWS : False
