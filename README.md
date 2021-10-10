@@ -6,10 +6,9 @@
         <td valign="center" width="50%">
             <ul style="font-size:32px">
                 <li>I'm an undergraduate in Tianjin University</li>
-                <li>I'm currently learning DRL now.</li>
+                <li>I'm currently learning (MA)DRL now.</li>
                 <li> <img src="https://img.shields.io/badge/target-MARL-blue">
-                <li>
-                    <img src="https://img.shields.io/badge/JS-primer-9cf">
+                <li> <img src="https://img.shields.io/badge/target-AGI-blue">
             </ul>
         </td>
         <td valign="top" width="50%">
