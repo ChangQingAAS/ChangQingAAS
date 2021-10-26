@@ -13,7 +13,7 @@
         </td>
         <td valign="top" width="50%">
             <p>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChangQingAAS&langs_count=10&exclude_repo=ChangQingAAS.github.io,Dive-into-DL-PyTorch&layout=compact&theme=nightowl&cache_seconds=1800" height='300' >
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChangQingAAS&langs_count=10&exclude_repo=ChangQingAAS.github.io,Dive-into-DL-PyTorch,learning_pytorch_notes&layout=compact&theme=nightowl&cache_seconds=1800" height='300' >
             </p>
         </td>
     </tr>
