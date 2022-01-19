@@ -18,15 +18,15 @@ jobs:
           # Options
           user: ChangQingAAS
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header
           config_timezone: Asia/Shanghai
           plugin_habits: yes
-          plugin_habits_charts: yes
           plugin_habits_days: 14
           plugin_habits_facts: yes
-          plugin_habits_from: 200
+          plugin_habits_from: 200 
+          plugin_habits_charts: yes
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year     
+          plugin_isocalendar_duration: full-year     
           plugin_languages_recent_days: 10
           plugin_languages_recent_load: 300 
           plugin_wakatime: yes
